@@ -1,0 +1,81 @@
+.banner-slide {
+    width: 100%;
+    height: 470px;
+    background: #000;
+    float: left;
+    position: relative;
+    background: url(../../assets/cover.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  .banner-slide .banner-overlay {
+    position: absolute;
+    width: 60vw;
+    background: yellow;
+    left: -150px;
+    height: 500px;
+    border-radius: 10% 0% 20% 10%/0% 87% 38% 0%;
+    transform: skew(-30deg, 0deg);
+    background: linear-gradient(to right, rgba(7, 59, 92, 0.92) 0%, rgba(26, 111, 98, 0.83) 100%);
+  }
+  .banner-slide .banner-overlay .banner-content {
+    margin-left: 30%;
+    transform: skew(30deg, 0deg);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .banner-slide .banner-overlay .banner-content h1 {
+    color: white;
+    font-size: 36px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    line-height: 58px;
+  }
+  .banner-slide .banner-overlay .banner-content p {
+    color: white;
+    font-size: 24px;
+    line-height: 38px;
+  }
+  .banner-slide .banner-overlay .banner-content a.button {
+    padding: 18px 50px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background: #F39C12;
+    text-decoration: none;
+  }
+  .banner-slide .banner-overlay .banner-content a:hover {
+    background: #c87f0a;
+  }
+  @media only screen and (max-width: 1250px) {
+    .banner-slide .banner-overlay {
+      width: 80vw;
+    }
+    .banner-slide .banner-overlay .banner-content {
+      margin-left: 30%;
+    }
+  }
+  @media only screen and (max-width: 750px) {
+    .banner-slide .banner-overlay {
+      width: 90vw;
+    }
+  }
+  @media only screen and (max-width: 680px) {
+    .banner-slide .banner-overlay {
+      width: 100vw;
+      border-radius: 0px;
+      transform: skew(0deg, 0deg);
+      left: 0px;
+    }
+    .banner-slide .banner-overlay .banner-content {
+      margin-left: 0px;
+      transform: skew(0deg, 0deg);
+      text-align: center;
+      align-items: center;
+    }
+  }
