@@ -4,7 +4,6 @@ const InfoCard = (props) => {
     return ( 
         <a href="#" class="data-card">
         <h3>{props.number}</h3>
-        <h4>{props.title}</h4>
         <h4>{props.name}</h4>
         <p>{props.text}</p>
         <span class="link-text">
