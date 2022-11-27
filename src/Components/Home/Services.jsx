@@ -180,7 +180,7 @@ const Services = () => {
                                         <p>
                                             Help the lovely animals by conducting a fundraising campaign and be a hero
                                         </p>
-                                        <button type="button" class="read_more_btn">Learn more</button>
+                                        <button type="button" class="read_more_btn"><Link to="/community" >Learn more</Link></button>
                                     </div>
                                 </div>
                                 <div class="solution_card">

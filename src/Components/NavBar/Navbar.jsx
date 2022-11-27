@@ -29,6 +29,9 @@ const NavBar = () => {
 						<li>
 							<Link to="/rescue" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Rescue</Link>
 						</li>
+						<li>
+							<Link to="/community" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Community</Link>
+						</li>
 					</ul>
 				</div>
 			</nav>

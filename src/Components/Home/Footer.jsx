@@ -48,6 +48,9 @@ const Footer = () => {
                             <li>
                                 <Link to="/rescue" className="text-gray-800"> Rescue</Link>
                             </li>
+                            <li>
+                                <Link to="/community" class="text-gray-800">Community</Link>
+                            </li>
                         </ul>
                     </div>
                     <div>
