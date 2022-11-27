@@ -5,9 +5,9 @@ import Adopt from './Pages/Adopt';
 
 function App() {
   return (
-    <Home />
-    // <Donate />
-    // <Adopt /w> 
+    // <Home />
+    <Donate />
+    // <Adopt /> 
   );
 }
 

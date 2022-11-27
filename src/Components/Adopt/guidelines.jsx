@@ -24,13 +24,11 @@ Tags used:
       <br>   | Breaks up text.
 ******************/}
             <p>
-                We believe everyone should be welcomed, every point of view should be given a chance. We welcome debate, as long as it is done peacefully and respectfully; any point of view is welcomed. Respect is imperative, everyone is equal here. Discussion must be kept civil, feel free to express yourself as long as you do it calmly.
+                We believe that earth is for all the living beings. This includes all the animals, birds, insects, reptiles, and all the other living beings. They all should be treated with love and care.
                 <br />
                 {/*BREAK*/}
                 <br />
-                Upon registration to
-                “<a href="www.nasclub.co" className="ewlink"><i>www.nasclub.co</i></a>”
-                you agree to following these rules/guidelines. Staff can and will use their own judgement when deciding on which warning/punishment is best suited to any given user.
+                Upon adopting a pet, you are agreeing to the following rules and guidelines. If you do not agree to these rules, please do not adopt a pet.
                 <br />
                 {/*BREAK*/}
                 <br />
@@ -52,70 +50,65 @@ Tags used:
                     <i />
                     <h2>General Rulebooks</h2>
                     <p>
-                        You are not allowed to;<br /> • Continually and aggressively insult or stalk other users.
-                        <br /> • Post personally identifiable information (i.e. name, address, email, phone number, etc.), without prior consent.
-                        <br /> • Like or post boost.
-                        <br /> • Derail a thread's topic.
-                        <br /> • Post links to inappropriate sites.
-                        <br /> • Post spam (i.e. +1, rickrolls, repeated content) or Re-post Closed, Modified, Deleted Content.
-                        <br /> • Triple post.
-                        <br /> • Abuse glitches
+                        You are not allowed to;<br /> • Harm the pet
+                        <br /> • Abuse the pet
+                        <br /> • Make the pet work for your personal gains
+                        <br /> • following unrecommended diets
                     </p>
                 </li>
                 <li>
                     <input type="checkbox" defaultChecked />
                     <i />
-                    <h2>Forum Guidelines</h2>
-                    <p><b>I. Arguments with Moderators<br /></b>
-                        You are not allowed to openly argue with a moderator about punishments. Contact the Moderator via a private message. These situations should be dealt with privately.
+                    <h2>Diet Guidelines</h2>
+                    <p><b>I. Allergic foods<br /></b>
+                        Do not feed your pet any food that may lead to allergic conditions to the pet. If you are unsure, please consult a vet.
                         <br />
                         <br />
-                        <b>II. Forum Accounts<br /></b>
-                        You are not allowed to share your account. Forum accounts are intended for the use by one person. You are not allowed to create backup accounts for the purpose of posting in our debate forums, in the event of your main being banned.
+                        <b>II. Bulking or starvation<br /></b>
+                        Do not feed your pet more than the recommended amount of food. This may lead to obesity and other health conditions.
                         <br />
                         <br />
-                        <b>III. Remain on Topic<br /></b>
-                        Threads should remain on the topic that they are discussing, they should not be discussing other topics. A new thread should be made for a new discussion. Please do understand we are lenient upon this rule however if the topics gets majorly derailed we will take action.
+                        <b>III. Protien foods<br /></b>
+                        Foods that are rich in protien are not recommended for pets. This may lead to health conditions.
                         <br />
                         <br />
-                        <b>IV. Inappropriate content<br /></b>
-                        Threads containing pornography, illegal content will be removed and the user banned. Racial, sexual, or any other form of discrimination is currently not tolerated. We are lenient depending upon the mannerism of discussion.
+                        <b>IV. Raw foods<br /></b>
+                        Raw foods are not recommended for pets. This may lead to health conditions.
                         <br />
                         <br />
-                        <b>V. Flame or Provoke<br /></b>
-                        Do not continually and aggressively insult or flame other members of the forum. Similarly, do not post with the intention of provoking a reaction from fellow members. This includes encouraging flame wars.
+                        <b>V. Junk foods<br /></b>
+                        Junk foods are not recommended for pets. This may lead to health conditions.
                         <br />
-                        <br />
-                        <b>V. Topic Setting<br /></b>
-                        The opening post of a thread sets the topic and the tone of the discussion. It should contain a member's opinions or questions with sufficient elaboration to establish a foundation for respectful discussion and debate. Images, links, quotations, etc., should be used to support a member's opinion, not to replace it.
-                        <br />
-                        <br />
-                        <b>VI. Topic Duplication<br /></b>
-                        Threads should not be posted in the wrong forum, or be duplicates of other threads and/or topics (creating multiple threads with fundamentally the same topic is not allowed, unless otherwise stated by a staff member).
-                        <br />
-                        <br />
-                        <b>VII. Private Messaging<br /></b>
-                        Publicly post or otherwise share PMs with other users unless you have the expressed permission of the sender to do so. Private Messages are intended to be just that - private.</p>
+                    </p>
                 </li>
                 <li>
                     <input type="checkbox" defaultChecked />
                     <i />
-                    <h2>Chat Guidelines</h2>
-                    <p><b>I. Arguments with Moderators<br /></b>
-                        You are not allowed to openly argue with a moderator about punishments. Contact the Moderator via a private message. These situations should be dealt with privately.
+                    <h2>Health Guidelines</h2>
+                    <p><b>I. Medical checkup<br /></b>
+                        The pet should be taken to a vet for a medical checkup at least once a month. This is to ensure the pet is healthy and to prevent any health conditions.
                         <br />
                         <br />
-                        <b>II. Doxing<br /></b>
-                        You are not allowed to post personally identifiable information (i.e. name, address, email, phone number, etc.), without prior consent.
+                        <b>II. Shelter<br /></b>
+                        The pet should be kept in a shelter that is safe and secure with the optimal temperature and humidity suitable for the pet.
                         <br />
                         <br />
-                        <b>III. Spamming<br /></b>
-                        You are not allowed to post similar or the same messages repeatidly in Nasclub Chat. We're currently cracking down on spamming, doing so will result in a one month ban.
+                        <b>III. Vaccination<br /></b>
+                        The pet should be vaccinated as per vets instruction. This is to ensure the pet is healthy and to prevent any health conditions.
                         <br />
                         <br />
-                        <b>IV. Inappropriate content<br /></b>
-                        You are not allowed to post links containing pornography, illegal content. Racial, sexual, or any other form of discrimination is currently not tolerated.
+                        <b>IV. Medication<br /></b>
+                        The pet should be given medication as per vets instruction. This is to ensure the pet is healthy and to prevent any health conditions.
                         <br />
+                        <br />
+                        <b>V. Exercise<br /></b>
+                        The pet should be given exercise as per vets instruction. This is to ensure the pet is healthy and to prevent any health conditions.
+                        <br />
+                        <br />
+                        <b>VI. Hygiene<br /></b>
+                        The pet should be kept clean and hygienic. This is to ensure the pet is healthy and to prevent any health conditions.
+                        <br />
+                        
                     </p></li>
             </ul>
         </div>
