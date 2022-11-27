@@ -15,7 +15,6 @@ function App() {
         <Route exact path='/donate' element={< Donate />}></Route>
         <Route exact path='/adopt' element={< Adopt />}></Route>
         <Route exact path='/rescue' element={< Rescue />}></Route>
-        <Route exact path='/community' element={< Rescue />}></Route>
         <Route exact path='/analytics' element={< Analytics />}></Route>
 
         </Routes>

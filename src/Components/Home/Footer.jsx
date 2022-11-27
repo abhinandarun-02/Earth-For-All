@@ -49,7 +49,7 @@ const Footer = () => {
                                 <Link to="/rescue" className="text-gray-800"> Rescue</Link>
                             </li>
                             <li>
-                                <Link to="/community" class="text-gray-800">Community</Link>
+                                <Link to="/analytics" class="text-gray-800">Analytics</Link>
                             </li>
                         </ul>
                     </div>
