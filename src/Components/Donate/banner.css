@@ -1,0 +1,8 @@
+.title{
+    background: url("../../assets/cover2.jpg");
+    background-position: center center;
+}
+
+.title .header{
+    font-family: 'Rubik', 'sans-serif';
+}
