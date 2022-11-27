@@ -176,7 +176,7 @@ const Services = () => {
                                     </div>
                                     <div class="solu_description">
                                         <p>
-                                            help the lovely animals by conducting a fundraising campaign and be a hero
+                                            Help the lovely animals by conducting a fundraising campaign and be a hero
                                         </p>
                                         <button type="button" class="read_more_btn">Learn More</button>
                                     </div>
