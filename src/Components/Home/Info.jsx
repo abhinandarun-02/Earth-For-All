@@ -3,10 +3,10 @@ import InfoCard from './InfoCard';
 
 const Info = () => {
     const data = [
-        { number: '422+', title: 'Saved Animals', text: 'Save Animal Campaign' },
-        { number: '1248', title: 'Saved Animals', text: 'Save Animal Campaign' },
-        { number: '614', title: 'Saved Animals', text: 'Save Animal Campaign' },
-        { number: '789', title: 'Saved Animals', text: 'Save Animal Campaign' },]
+        { number: '422+', title: 'Animals Rescued', text: 'Save Animal Campaign' },
+        { number: '1248', title: 'Animals fed everyday', text: 'Save Animal Campaign' },
+        { number: '614', title: 'Animals vaccinated annually', text: 'Save Animal Campaign' },
+        { number: '1000+', title: 'Volunteers for the community', text: 'Save Animal Campaign' },]
     return (
         <div>
             <h1 className='info-header text-6xl'>Our Activities</h1>

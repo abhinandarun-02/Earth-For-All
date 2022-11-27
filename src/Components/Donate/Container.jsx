@@ -3,12 +3,12 @@ import DCard from "./DonationCard";
 const Container = () => {
     const data = [{
         title: "Be for pets",
-        caption: "Get started with small steps",
-        desc: "The earth is not just for humans. With every rupee you Donate, it helps some animal in need. Donate now and help us save the animals."
+        caption: "feed them with a smile",
+        desc: "provide the hungry lifes in the streets and our shelter with food for a day and make them happy",
     }, {
         title: "Be for pets",
-        caption: "Get started with small steps",
-        desc: "The earth is not just for humans. With every rupee you Donate, it helps some animal in need. Donate now and help us save the animals."
+        caption: "Care them for good",
+        desc: "provide the expense of a pet for a month on its food and medical care. The pet may be a dog, cat, bird, or any other animal admitted to our shelter"
     }]
     return (
         <div className="py-8 lg:px-40">

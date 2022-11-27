@@ -5,9 +5,11 @@ const hero = () => {
         <div class="banner-slide">
             <div class="banner-overlay">
                 <div class="banner-content">
-                    <h1>A Better Life For India's<br />Stray Animals</h1>
-                    <p>A little bit of space for a subheading <br />again over two lines.</p>
-                    <a href="#" class="button rounded-[10px]">Donate Now</a>
+                    <h1 class="banner-title">Earth For All</h1>
+                    <br />
+                    <p>A Better Life For India's Stray Animals</p>
+                    <br />
+                    <a href="#" class="button rounded-[10px] mt-[15px]" >Donate Now</a>
                 </div>
             </div>
 
