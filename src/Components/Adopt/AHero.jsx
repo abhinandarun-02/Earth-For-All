@@ -1,6 +1,6 @@
 import './ahero.css'
 
-const AHero = () => {
+const AHero = (props) => {
     return (
         <div class="main-body-section-div text-white relative">
 				<div class="heading-main-body">
