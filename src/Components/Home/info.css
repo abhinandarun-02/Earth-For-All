@@ -23,7 +23,7 @@
 .data-card {
     display: flex;
     flex-direction: column;
-    max-width: 20.75em;
+    max-width: 30.75em;
     min-height: 20.75em;
     overflow: hidden;
     border-radius: 0.5em;

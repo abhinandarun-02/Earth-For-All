@@ -1,0 +1,28 @@
+.main-body-section-div {
+  background-image: url(../../assets/straydog.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  min-height: 500px;
+  opacity: 0.9;
+  padding-top: 80px;
+}
+
+.main-body-heading-text {
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-body-section-div h1 {
+  font-size: 64px;
+  /* padding-left: 18.8%;
+    padding-top: 16.6%; */
+  color: azure;
+  font-weight: 700;
+}
+
+.main-body-section-div div {
+  /* padding-left: 14.3%; */
+  font-size: 20px;
+  color: azure;
+  font-weight: 400;
+}
