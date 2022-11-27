@@ -1,6 +1,8 @@
 import './services.css'
+import {Link} from 'react-router-dom'
 
 const Services = () => {
+
     return (
         <div className='service-container mt-[50px] py-10 px-10 lg:px-20'>
             <div class="section_our_solution">
@@ -60,9 +62,9 @@ const Services = () => {
                                     </div>
                                     <div class="solu_description">
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                            Every donation helps us to continue our work. We are a non-profit organization and we rely on donations to keep our services running.
                                         </p>
-                                        <button type="button" class="read_more_btn">Learn More</button>
+                                        <button type="button" class="read_more_btn"><Link to="/donate" >Learn More</Link></button>
                                     </div>
                                 </div>
                                 <div class="solution_card">
@@ -117,9 +119,9 @@ const Services = () => {
                                     </div>
                                     <div class="solu_description">
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                            Adopting a dog is a great way to give a dog a second chance at life. We have many dogs available for adoption. We also have a foster program for dogs that need a little extra time to find their forever home.
                                         </p>
-                                        <button type="button" class="read_more_btn">Learn More</button>
+                                        <button type="button" class="read_more_btn"><Link to="/adopt" >Learn more</Link></button>
                                     </div>
                                 </div>
                             </div>
@@ -176,9 +178,9 @@ const Services = () => {
                                     </div>
                                     <div class="solu_description">
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                            Help the lovely animals by conducting a fundraising campaign and be a hero
                                         </p>
-                                        <button type="button" class="read_more_btn">Learn More</button>
+                                        <button type="button" class="read_more_btn"><Link to="/fundraise" >Learn more</Link></button>
                                     </div>
                                 </div>
                                 <div class="solution_card">
@@ -233,9 +235,9 @@ const Services = () => {
                                     </div>
                                     <div class="solu_description">
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                            Found any animal in distress? Report it to us and we will rescue it.
                                         </p>
-                                        <button type="button" class="read_more_btn">Learn More</button>
+                                        <button type="button" class="read_more_btn"><Link to="/rescue" >Learn more</Link></button>
                                     </div>
                                 </div>
                             </div>

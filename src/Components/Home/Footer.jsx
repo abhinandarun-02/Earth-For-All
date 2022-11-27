@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Footer = () => {
     return (
         <div className="p-20" style={{background: "linear-gradient(to right, rgba(7, 59, 92, 0.62) 0%, rgba(26, 111, 98, 0.70) 51%)"}}>
@@ -38,24 +40,16 @@ const Footer = () => {
 
                         <ul className="list-none mb-0">
                             <li>
-                                <a href="#!" className="text-gray-800">
-                                    Donate
-                                </a>
+                            <Link to="/adopt" class="text-gray-800">Adopt</Link>
                             </li>
                             <li>
-                                <a href="#!" className="text-gray-800">
-                                    Adopt
-                                </a>
+                                <Link to="/donate" class="text-gray-800" >Donate</Link>
                             </li>
                             <li>
-                                <a href="#!" className="text-gray-800">
-                                    Fundraiser
-                                </a>
+                                <Link to="/rescue" className="text-gray-800"> Rescue</Link>
                             </li>
                             <li>
-                                <a href="#!" className="text-gray-800">
-                                    Rescue
-                                </a>
+                                <Link to="/fundraiser" class="text-gray-800">Fundraiser</Link>
                             </li>
                         </ul>
                     </div>
