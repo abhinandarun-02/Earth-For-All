@@ -1,4 +1,5 @@
 import Logo from "../../assets/Baby Taylor Finn.png"
+import {Link} from 'react-router-dom'
 const NavBar = () => {
     return (
         <header class="header text-gray-400 bg-header-offwhite body-font flex flex-row items-center justify-center lg:justify-around bg-slate-400 min-h-[88px]" id="header">
@@ -17,23 +18,19 @@ const NavBar = () => {
 				<div class="hidden w-full lg:block z-0" id="navbar">
 					<ul class="w-[100vw] h-1/2 top-0 right-0 p-4 text-center space-y-8 lg:space-y-0 lg:space-x-3 lg:static lg:w-auto flex flex-col rounded-lg border border-gray-100 items-center lg:bg-transparent lg:border-0 lg:flex-row justify-center">
 						<li>
-							<a href="./index.html" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Home</a>
+							<Link to="/" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Home</Link>
 						</li>
 						<li>
-							<a href="#About" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">About Us</a>
+							<Link to="/adopt" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Adopt</Link>
 						</li>
 						<li>
-							<a href="./blog.html" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Blogs</a>
+							<Link to="/donate" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Donate</Link>
 						</li>
 						<li>
-							<a href="./donate.html" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Donate Animals</a>
+							<Link to="/rescue" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Rescue</Link>
 						</li>
 						<li>
-							<a href="#contact">
-								<button class="inline-flex items-center bg-header-orange-light border-0 py-4 px-2 focus:outline-none text_4 font-bold rounded text-base mt-4 md:mt-0 text-white">
-									Contact Us
-								</button>
-							</a>
+							<Link to="/community" class="p-3 text-custom-heading font-bold hover:underline underline-offset-4 turn-red-hover navbar-item text-white turn-yellow-hover">Community</Link>
 						</li>
 					</ul>
 				</div>
