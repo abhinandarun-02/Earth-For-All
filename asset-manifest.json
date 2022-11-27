@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Earth-For-All/static/css/main.183efa14.css",
+    "main.js": "/Earth-For-All/static/js/main.2c9ebd39.js",
+    "static/js/787.7577a765.chunk.js": "/Earth-For-All/static/js/787.7577a765.chunk.js",
+    "static/media/cover.jpg": "/Earth-For-All/static/media/cover.7aa6ba8d21682b37c27f.jpg",
+    "static/media/cover2.jpg": "/Earth-For-All/static/media/cover2.bfae6e730e2e9d239dca.jpg",
+    "static/media/straydog.jpg": "/Earth-For-All/static/media/straydog.5b00bd840b7453b54d28.jpg",
+    "static/media/newplot.png": "/Earth-For-All/static/media/newplot.d386ac676b9eadb9b794.png",
+    "static/media/Baby Taylor Finn.png": "/Earth-For-All/static/media/Baby Taylor Finn.a937d59b531c20b84e1b.png",
+    "index.html": "/Earth-For-All/index.html",
+    "main.183efa14.css.map": "/Earth-For-All/static/css/main.183efa14.css.map",
+    "main.2c9ebd39.js.map": "/Earth-For-All/static/js/main.2c9ebd39.js.map",
+    "787.7577a765.chunk.js.map": "/Earth-For-All/static/js/787.7577a765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.183efa14.css",
+    "static/js/main.2c9ebd39.js"
+  ]
+}
