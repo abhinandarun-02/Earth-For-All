@@ -2,7 +2,7 @@ import './services.css'
 
 const Services = () => {
     return (
-        <div className='service-container mt-[50px]'>
+        <div className='service-container mt-[50px] py-10 px-10 lg:px-20'>
             <div class="section_our_solution">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
