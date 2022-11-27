@@ -3,7 +3,7 @@ import Home from './Pages/Home';
 import Donate from './Pages/Donate';
 import Adopt from './Pages/Adopt';
 import Rescue from './Pages/Rescue';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import Community from './Pages/Community';
 
 function App() {
   return (
