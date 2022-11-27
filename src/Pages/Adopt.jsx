@@ -9,8 +9,8 @@ const Adopt = () => {
         <div>
         <NavBar />
         <AHero title={"Adopt Me"} desc={"India’s stray animal population numbers nearly 90 million. However, India’s shelter system already faces population stress with less than 9 million animals. "}/>
-        <Form/>
         <Rules />
+        <Form/>
         <Footer />
         </div>
      );
